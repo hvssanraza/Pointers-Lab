@@ -7,6 +7,9 @@ void swap(int* num1, int* num2)
     *num1 = *num2;
     *num2 = temp;
 }
+
+// code by AHNUF MIR
+
 int main() {
     int a, b;
     cout<<"Enter two numbers:"<<endl;
